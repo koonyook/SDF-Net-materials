@@ -4,6 +4,6 @@ Proceed to [this link](https://drive.google.com/drive/folders/1NF0wPz9xdR7uIWDdk
 
 ## Contact Us
 
-My name is Prayook Jatesiktat. Feel free to contact me at prayook001@e.ntu.edu.sg
+Feel free to contact author at prayook001[at]e[dot]ntu[dot]edu[dot]sg
 
 I'm from Robotics Research Center, Nanyang Technological University.
