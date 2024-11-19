@@ -6,4 +6,4 @@ Proceed to [this link](https://e.pcloud.link/publink/show?code=kZQVnxZ6cjOn616JX
 
 Feel free to contact author at prayook001[at]e[dot]ntu[dot]edu[dot]sg
 
-I'm from Robotics Research Center, Nanyang Technological University.
+I'm from Nanyang Technological University.
